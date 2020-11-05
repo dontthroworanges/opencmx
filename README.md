@@ -2,11 +2,11 @@
 
 ## The openCMX Standard
 
-openCMX is a proposed standardized, modular for factor and I/O specification for small, scalable, general computing devices.
+openCMX is a proposed Open Source, standardized, modular for factor and I/O specification for small, scalable, general computing devices.
 
 **Goals**
 
-The goal of openCMX is to establish a standard PCB and connector design for small low powered devices that allows an individual to use cost effective USB-C adapters to fully operate the node. In addition to this scenario, the user may also use the same module(s) along with 3rd party designed backplanes, to scale the single node to high density clusters. No extra cables, network switches, or power supplies. 
+The goal of openCMX is to establish an Open Sourced standard PCB and connector design for small low powered devices that allows an individual to use cost effective USB-C adapters to fully operate the node. In addition to this scenario, the user may also use the same module(s) along with 3rd party designed backplanes, to scale the single node to high density clusters. No extra cables, network switches, or power supplies. 
 
 Some examples of openCMX usaage:
 
