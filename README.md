@@ -48,4 +48,6 @@ Each openCMX compliant module must conform to the following physical specificati
 
 - Components on the Thin Side, otherwise known as “Side B” cannot exceed the height of the SFF-8639 connector as it protrudes from the PCB. 
 
-[opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX%20Side%20A-1034x864.png)
+![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX%20Side%20A-1034x864.png)
+
+![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX%20Side%20B-1034x864.png)
