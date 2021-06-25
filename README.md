@@ -36,7 +36,6 @@ Each openCMX module must include:
 - 1x USB-C 3.1
 - 1x USB-A 3.0 (Mid-Mount)
 - 1x mSDXC
-- 1x FFC 40pin GPIO
 
 **Physical Requirements**
 
