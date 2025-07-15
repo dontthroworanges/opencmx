@@ -1,6 +1,6 @@
 # openCMX
 
-## The openCMX Standard
+## General Information
 
 openCMX is a proposed Open Source, standardized, modular for factor and I/O specification for small, scalable, general computing devices.
 
@@ -27,6 +27,8 @@ Some examples of openCMX usaage:
 - openCMX modules can be used either as a bare PCB with user customized SoC cooling etc. The module can also reside within an aluminum enclosure doubling as a heatsink. This adds durability and essential heat transfer when in higher density clusters. 
 - The user only pays for the I/O they want (USB-C Hubs, Docks, backplanes). Once the user invests in a chassis and I/O, modules can be swapped or upgraded without any physical reconfiguration (cables, power supplies, etc)
 - Conforms to [USB-C Power Delivery specification](https://www.usb.org/document-library/usb-power-delivery) to accept 12v at various USB-C PD profiles. 
+
+## Requirements
 
 **Compliant I/O**
 
@@ -60,8 +62,9 @@ Each openCMX compliant module must conform to the following physical specificati
 
 - No physical device(s) shall be used to trigger a module power event such as Power On, Power Cycle, etc. 
 
-**Design Concept Exhibits**
-
+## Design Concept Illustrations
+- Only required components are shown (excluding SOC)
+**Side A**
 ![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX_SideA.png)
-
+**Side B**
 ![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX_SideB.png)
