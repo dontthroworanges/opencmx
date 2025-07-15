@@ -64,7 +64,11 @@ Each openCMX compliant module must conform to the following physical specificati
 
 ## Design Concept Illustrations
 - Only required components are shown (excluding SOC)
+  
 **Side A**
+
 ![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX_SideA.png)
+
 **Side B**
+
 ![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX_SideB.png)
