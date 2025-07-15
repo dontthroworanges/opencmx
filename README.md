@@ -21,7 +21,7 @@ Some examples of openCMX usaage:
 
 **Basics**
 
-- The form factor is built upon the 15mm 2.5" U.2 storage physical specifications. This form factor is well established with OEMs and makes use of existing accessories and tooling. 
+- The form factor is built upon the [15mm 2.5" U.2 storage physical specifications](https://www.snia.org/forums/cmsi/knowledge/formfactors#u2). This form factor is well established with OEMs and makes use of existing accessories and tooling. 
 - Primary I/O is dependent on reuse of the U.2 SFF-8639 connector to carry a PCIe x4 connection as well as a USB 3.2 connection for power, peripherals, and display output. The use of this edge connector allows for scalability within high density rack enclosures as well as smaller clusters without the need for external power supplies, network switches, etc. 
 - In conjunction with the SFF-8639 connection, a second USB 3.2 port (USB-C) is used for use with commodity USB-C Hubs. 
 - openCMX modules can be used either as a bare PCB with user customized SoC cooling etc. The module can also reside within an aluminum enclosure doubling as a heatsink. This adds durability and essential heat transfer when in higher density clusters. 
