@@ -60,6 +60,6 @@ Each openCMX compliant module must conform to the following physical specificati
 
 - No physical device(s) shall be used to trigger a module power event such as Power On, Power Cycle, etc. 
 
-![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX%20Side%20A-1034x864.png)
+![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX_SideA.png)
 
-![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX%20Side%20B-1034x864.png)
+![opencmx](https://github.com/dontthroworanges/opencmx/blob/main/openCMX_SideB.png)
