@@ -2,7 +2,7 @@
 
 ## General Information
 
-openCMX (Open Compute Module Extended) is a proposed Open Source, standardized, modular for factor and I/O specification for small, scalable, general computing devices.
+openCMX (Open Compute Module Extended) is a proposed Open Source, standardized, modular form factor and I/O specification for small, scalable, general computing devices.
 
 **Goals**
 
